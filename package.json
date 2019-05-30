@@ -1,6 +1,7 @@
 {
 	"author": "ssv693",
 	"name": "fcc-learn-npm-package-json",
+	"description": "Working with node and npm",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
